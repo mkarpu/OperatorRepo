@@ -1,5 +1,5 @@
 package AccessSpecifiers;
-
+//This is my program to explain the access specifiers.
 class Access {
     public int publicVar = 10;
     protected int protectedVar = 20;
